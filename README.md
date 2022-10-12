@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnab!</h1>
 <h3 align="center">A passionate Competitive Programmer and React Developer from India</h3>
 
+- 🌱 I’m rated 5stars on CodeChef, Specialist on CodeForces and Knight on LeetCode. I've solved 2000+ DSA questions.**
+
 - 🌱 I’m currently learning **React Native, NextJS**
 
 - 👨‍💻 All of my projects are available at [test.com](test.com)
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **arnavjha07@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1pJuIC5JTKtyNRUJwULhEp0jZDLq45dx4/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1pnqmIdH3OXjUeEtIaRoVj5SicvVp7lJJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
